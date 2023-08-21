@@ -13,8 +13,11 @@ class CustomTableViewCell: UITableViewCell {
     @IBOutlet weak var lDateN: UILabel!
     @IBOutlet weak var lNombre: UILabel!
     @IBOutlet weak var lMonto: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
+        lNombre.numberOfLines = 0
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
