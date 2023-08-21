@@ -48,13 +48,11 @@
                 </subviews>
                 <constraints>
                     <constraint firstAttribute="trailing" secondItem="lqg-rT-l3E" secondAttribute="trailing" constant="135" id="0AJ-6A-aaE"/>
-                    <constraint firstAttribute="bottom" secondItem="cyo-o9-Fte" secondAttribute="bottom" constant="34" id="6zX-ao-tnd"/>
                     <constraint firstItem="6cs-Mr-kHj" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="Fvy-Ey-Ys0"/>
                     <constraint firstAttribute="bottom" secondItem="wfK-63-Ftf" secondAttribute="bottom" constant="32" id="GgC-Kt-imF"/>
                     <constraint firstItem="cyo-o9-Fte" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="29" id="JL9-i9-b86"/>
                     <constraint firstItem="lqg-rT-l3E" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="U7D-GF-765"/>
                     <constraint firstItem="wfK-63-Ftf" firstAttribute="top" secondItem="lqg-rT-l3E" secondAttribute="bottom" constant="7" id="d6v-YS-ra9"/>
-                    <constraint firstAttribute="bottom" secondItem="6cs-Mr-kHj" secondAttribute="bottom" constant="32" id="ecN-VP-3P6"/>
                     <constraint firstItem="cyo-o9-Fte" firstAttribute="leading" secondItem="wfK-63-Ftf" secondAttribute="trailing" constant="16" id="hig-us-WPF"/>
                     <constraint firstItem="lqg-rT-l3E" firstAttribute="leading" secondItem="6cs-Mr-kHj" secondAttribute="trailing" constant="16" id="jH3-bX-uZs"/>
                     <constraint firstItem="6cs-Mr-kHj" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="oYW-83-0vp"/>
